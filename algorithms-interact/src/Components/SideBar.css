@@ -1,0 +1,30 @@
+.SideBar{
+    width: 18%;
+    height: 1000px;
+    display: inline-block;
+    background-color: rgb(200, 200, 200);
+    margin: 0 0 0 0;
+    vertical-align: top;
+    border-style:solid;
+}
+
+.SideBar ul{
+    background-color: rgb(200, 200, 200);
+    list-style: none;
+
+}
+
+.SideBar li{
+    cursor: pointer;
+
+    height: 30px;
+    line-height: 1.7;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.SideBar li:hover{
+    background-color: rgb(190, 190, 190);
+}
+

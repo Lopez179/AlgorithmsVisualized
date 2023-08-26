@@ -1,0 +1,41 @@
+/*Navigation Bar*/
+.SubjectSelect ul{
+    width: 100%;
+    height: 35px;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    background-color: rgb(64, 70, 70);
+}
+
+.SubjectSelect li{
+    display:inline-block;
+    cursor: pointer;
+
+    width: 200px;
+    height: 35px;
+    margin: 0 2px 0 0;
+    
+    text-align: center;
+    line-height: 1.7;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.SubjectSelect li:hover{
+    background-color: rgb(32, 148, 109);
+}
+
+.in {
+    background-color: rgb(32, 148, 109);
+}
+
+.notIn {
+    background-color: rgb(49, 237, 175);
+}
+
+/* Visualization and side bar */
+
+.MainView {
+    display: inline-block;
+}

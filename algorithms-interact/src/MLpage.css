@@ -1,0 +1,45 @@
+.RegInterface {
+    display: inline-block;
+    width: 81%;
+}
+
+.Menu {
+    display: inline-block;
+    vertical-align: top;
+    font-family: Arial;
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(64, 70, 70);
+    margin: 40px 0 0 40px;
+}
+
+input[type='number'] {
+    width: 80px;
+}
+
+.Predict {
+    color:black;
+    font-size: 15px;
+}
+
+.Z0 {
+    color: rgb(255, 64, 64)
+}
+.Z1 {
+    color:rgb(64, 128, 255)
+}
+
+.ChartDisplay {
+    display: inline-block;
+    width: 70%;
+    height: 700px;
+}
+
+input[type='number'] {
+    width: 5em;
+}
+
+
+
+
+

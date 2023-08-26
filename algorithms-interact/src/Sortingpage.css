@@ -1,0 +1,15 @@
+.SortInterface {
+    display: inline-block;
+    width: 81%;
+    height: 700px;
+}
+.Chart {
+    display: inline-block;
+    width: 80%;
+    height: 700px;
+}
+
+.Description {
+    margin: 0 0 0 30px;
+    font-family: Arial;
+}
