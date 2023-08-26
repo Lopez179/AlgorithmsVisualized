@@ -17,7 +17,7 @@ function MLpage() {
                     <li onClick={() => setDemo(0)}>Linear Regression</li>
                     <li onClick={() => setDemo(1)}>Logistic Regression</li>
                     <li onClick={() => setDemo(2)}>K Nearest Neighbours</li>
-                    <li>More Comming Soon</li>
+                    <li>More Coming Soon</li>
                 </ul>
             </div>
 

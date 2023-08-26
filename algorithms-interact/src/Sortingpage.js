@@ -10,7 +10,7 @@ function SortingPage() {
             <div className='SideBar'>
                 <ul>
                     <li onClick={() => setDemo(0)}>Quick Sort (Binary Sort)</li>
-                    <li>More Comming Soon</li>
+                    <li>More Coming Soon</li>
                 </ul>
             </div>
 
